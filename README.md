@@ -131,7 +131,7 @@ Visualization
 -------------
 Heat map represents height for every measurement point. Numbers show the index of group where area belongs (higher number means higher mean height difference).
 
-![America](https://sh7xlq.db.files.1drv.com/y4m-okdxhJ2odSs-B0_C2IhI2CA-z3vTMl83oqsT3OO45hIOm_pKlE7fOCGftA-3XUd6pf4Pzj1a8CuGBqqmdOuTWafktna48Lzrv-i7G_McNZPFauMVjOqEIRgsQuc3xTx9HiOpmKC_KMTzzOOKyfSVzUqmMgC_Cpt9FWxnoVdSAQs-xGx6toFeCDqfSUIWJsAvjFUAHOZqbv4KKiSGQIMXQ?width=960&height=976&cropmode=none)
+![America](america.jpg)
 
 <br>
 
